@@ -1,6 +1,6 @@
 Calculations
 Basic
-rofit Ratio = [Profit] / [Sales]
+Profit Ratio = [Profit] / [Sales]
 
 Aggregate
 AVG([Sales]), SUM([Profit])
